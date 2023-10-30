@@ -60,7 +60,5 @@ int main() {
     test(4, 15, 15, 2);
     test(4, 15, 30, 2);
 
-    // Additional tests can be added as required.
-
     return 0;  // Indicate that the program executed successfully.
 }

@@ -61,6 +61,84 @@ build CMakeFiles/leetcodeSolutions.dir/problems/458_poor-pigs.cpp.obj: CXX_COMPI
   OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
   OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
 
+build CMakeFiles/leetcodeSolutions.dir/problems/1220_count-vowels-permutation.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/1220_count-vowels-permutation.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\1220_count-vowels-permutation.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/5_longest-palindromic-substring.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/5_longest-palindromic-substring.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\5_longest-palindromic-substring.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/823_binary-trees-with-factors.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/823_binary-trees-with-factors.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\823_binary-trees-with-factors.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/779_k-th-symbol-in-gramma.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/779_k-th-symbol-in-gramma.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\779_k-th-symbol-in-gramma.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/515_find-largest-value-in-each-tree-row.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/515_find-largest-value-in-each-tree-row.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\515_find-largest-value-in-each-tree-row.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/342_power-of-four.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/342_power-of-four.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\342_power-of-four.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/1793_maximum-score-of-a-good-subarray.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/1793_maximum-score-of-a-good-subarray.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\1793_maximum-score-of-a-good-subarray.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/1425_constrained-subsequence-sum.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/1425_constrained-subsequence-sum.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\1425_constrained-subsequence-sum.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/341_flatten-nested-list-iterator.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/341_flatten-nested-list-iterator.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\341_flatten-nested-list-iterator.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/844_backspace-string-compare.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/844_backspace-string-compare.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\844_backspace-string-compare.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/2050_parallel-courses-iii.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/2050_parallel-courses-iii.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\2050_parallel-courses-iii.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/1361_validate-binary-tree-nodes.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/1361_validate-binary-tree-nodes.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\1361_validate-binary-tree-nodes.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
+build CMakeFiles/leetcodeSolutions.dir/problems/119_pascals-triangle-ii.cpp.obj: CXX_COMPILER__leetcodeSolutions_unscanned_Debug D$:/Programming/Projects/CLionProjects/leetcodeSolutions/problems/119_pascals-triangle-ii.cpp || cmake_object_order_depends_target_leetcodeSolutions
+  DEP_FILE = CMakeFiles\leetcodeSolutions.dir\problems\119_pascals-triangle-ii.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcodeSolutions.dir\problems
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target leetcodeSolutions
@@ -69,7 +147,7 @@ build CMakeFiles/leetcodeSolutions.dir/problems/458_poor-pigs.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable leetcodeSolutions.exe
 
-build leetcodeSolutions.exe: CXX_EXECUTABLE_LINKER__leetcodeSolutions_Debug CMakeFiles/leetcodeSolutions.dir/problems/1356_sort-integers-by-the-number-of-1-bits.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/458_poor-pigs.cpp.obj
+build leetcodeSolutions.exe: CXX_EXECUTABLE_LINKER__leetcodeSolutions_Debug CMakeFiles/leetcodeSolutions.dir/problems/1356_sort-integers-by-the-number-of-1-bits.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/458_poor-pigs.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/1220_count-vowels-permutation.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/5_longest-palindromic-substring.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/823_binary-trees-with-factors.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/779_k-th-symbol-in-gramma.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/515_find-largest-value-in-each-tree-row.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/342_power-of-four.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/1793_maximum-score-of-a-good-subarray.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/1425_constrained-subsequence-sum.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/341_flatten-nested-list-iterator.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/844_backspace-string-compare.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/2050_parallel-courses-iii.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/1361_validate-binary-tree-nodes.cpp.obj CMakeFiles/leetcodeSolutions.dir/problems/119_pascals-triangle-ii.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\leetcodeSolutions.dir
