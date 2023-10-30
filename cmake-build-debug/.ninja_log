@@ -1,0 +1,6 @@
+# ninja log v5
+0	130	7204029749967897	build.ninja	de777e4642cb5d53
+0	571	7204029391509000	CMakeFiles/leetcodeSolutions.dir/problems/1356_sort-integers-by-the-number-of-1-bits.cpp.obj	d54b6201d2b9b291
+572	706	7204029392846017	leetcodeSolutions.exe	5690a5044abf0397
+2	40	7204029834109829	CMakeFiles/leetcodeSolutions.dir/main.cpp.obj	8828664bee91a5b9
+40	122	7204029834900002	leetcodeSolutions.exe	f9db2a2a63882868
