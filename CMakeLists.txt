@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(leetcodeSolutions
         problems/1356_sort-integers-by-the-number-of-1-bits.cpp
+        problems/458_poor-pigs.cpp
 )

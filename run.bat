@@ -1,7 +1,7 @@
 @echo off
 REM This is a batch script to compile and run the specific .cpp file.
 
-set FILENAME=problems/1356_sort-integers-by-the-number-of-1-bits.cpp
+set FILENAME=problems/458_poor-pigs.cpp
 
 echo Compiling %FILENAME%...
 
